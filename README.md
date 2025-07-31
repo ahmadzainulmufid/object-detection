@@ -1,4 +1,4 @@
-# RealTime-ObjectDetection 🧠🎥
+# ObjectDetection 🧠🎥
 
 Proyek ini merupakan sistem **deteksi objek secara real-time** berbasis YOLOv11x, dengan antarmuka web menggunakan **Flask** dan dukungan upload gambar.
 
